@@ -1,6 +1,6 @@
 # Snake
 
-Simple snake game using Javascript. Made as part of Scrimba's Frontend D
+Simple snake game using Javascript. Made as part of Scrimba's Frontend Development Developer Career Path course.
 
 Quick start:
 
