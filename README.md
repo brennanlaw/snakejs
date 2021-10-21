@@ -1,4 +1,6 @@
-# title(){return this.options.title||this.options.name}
+# Snake
+
+Simple snake game using Javascript. Made as part of Scrimba's Frontend D
 
 Quick start:
 
